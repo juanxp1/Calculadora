@@ -1,0 +1,14 @@
+.titulo{
+    color: #ffa4fa;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center; 
+}
+.conteiner{
+    background-color: chocolate;
+    height: 200px;
+    display: flex;
+    justify-content: center ;
+    margin-top: 100px;
+    
+}
